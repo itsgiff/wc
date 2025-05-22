@@ -28,7 +28,7 @@ This repository contains the foundational infrastructure and operational documen
 * ✅ Name reservation approved (expires Aug 20, 2025)
 * 🔄 **Complete domain and email setup (required to begin incorporation)**
 * ⬜ Static site deployed with Docker + Cloudflared tunnel
-* ⬜ Corporate incorporation filing in BC
+* 🔄 Corporate incorporation filing in BC
 
 ---
 
